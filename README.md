@@ -1,6 +1,6 @@
-##  🚀 Data Analyst | Financial Analyst | Python | SQL | Power BI | Open to Opportunities
+#  🚀 Data Analyst | Financial Analyst | Python | SQL | Power BI | Open to Opportunities
 
-#  🔹About Me
+##   🔹About Me
 
 Hi 👋 I’m Sourav Agrawal, a finance professional turned Data Analytics enthusiast with hands-on experience in Python, SQL, Excel, and Business Analysis. I bring strong domain expertise in Banking, Project Finance, and Financial Modeling, combined with the ability to convert raw data into meaningful business insights. I enjoy solving real-world problems using data-driven approaches and continuously upskilling in analytics and automation.
 
